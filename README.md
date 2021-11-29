@@ -31,13 +31,14 @@
 	- VIDEO IS A WIP
 
 ## How To Contribute
-
+- Set the project up according to the instructions above.
 - Choose 1 of the issues listed in [the issues page](https://github.com/ktranfullerton2000/GitHubVN/issues)
 - There are 5 issues that involve creating a new route for the game. There it no minimum or maximum length needed for a pull request. Additional resources are provided below.
 	- [Ren'Py documentation](https://www.renpy.org/doc/html/)
 	- [Creative-Common images for backgrounds](https://www.pexels.com/)
 	- [Royalty-Free music](https://incompetech.com/music/royalty-free/)
 - There will also be general issues that apply to the game as a whole. Resources for these individual issues will be provided in the issue listing.
+- If you have any ideas for an issue feel free to make a suggestions and I'll see if I can set up an issues listing for it!
 - If you run into any issues at all, please let me know! I'd be happy to look that the problem with you.
 
 ## Happy Coding!
