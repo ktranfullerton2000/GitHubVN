@@ -30,7 +30,7 @@
 - At the same "Preferences" menu, set your editor to Atom. 
 	- Doing this will automatically install an Atom editor to Ren'Py.
 - Now you're all set to play the game or contribute! If you have any issues feel free to message me after viewing the tutorial video included.
-	- VIDEO IS A WIP
+	- [Video Tutorial](https://youtu.be/FQKo5t53oo4)
 
 ## How To Contribute
 - Set the project up according to the instructions above.
