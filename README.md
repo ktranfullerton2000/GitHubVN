@@ -24,7 +24,7 @@
  - Then install Ren'Py to a directory of your choice.
 - Clone the GitHubVN repository to a directory of your choice.
 - Open Ren'Py and Select "Preferences". Then set "Projects Directory" to the directory containing the cloned repository. 
-	- Make sure you select the Directory that contains the folder: "GitHubVN"
+	- Make sure you select the "GitHubVN" Directory that contains the folder: "GitHubVN"
 - At the same "Preferences" menu, set your editor to Atom. 
 	- Doing this will automatically install an Atom editor to Ren'Py.
 - Now you're all set to play the game or contribute! If you have any issues feel free to message me after viewing the tutorial video included.
