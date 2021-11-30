@@ -20,8 +20,8 @@
 
 ## How to Set Up
 
- - Download the latest SDK version of Ren'Py at [the official download page](https://www.renpy.org/latest.html).
- - Then install Ren'Py to a directory of your choice.
+- Download the latest SDK version of Ren'Py at [the official download page](https://www.renpy.org/latest.html).
+- Then install Ren'Py to a directory of your choice.
 - Clone the GitHubVN repository to a directory of your choice.
 - Open Ren'Py and Select "Preferences". Then set "Projects Directory" to the directory containing the cloned repository. 
 	- Make sure you select the "GitHubVN" Directory that contains the folder: "GitHubVN". Not the directory that contains the folder "game".
@@ -31,6 +31,10 @@
 	- Doing this will automatically install an Atom editor to Ren'Py.
 - Now you're all set to play the game or contribute! If you have any issues feel free to message me after viewing the tutorial video included.
 	- [Video Tutorial](https://youtu.be/FQKo5t53oo4)
+
+## How to Test
+- After setting up, press the "Launch Project" button in Ren'Py while having "GitHubVN" selected.
+	- This action will show you any errors in your code and open the game once all of the errors are fixed.
 
 ## How To Contribute
 - Set the project up according to the instructions above.
@@ -42,5 +46,10 @@
 - There will also be general issues that apply to the game as a whole. Resources for these individual issues will be provided in the issue listing.
 - If you have any ideas for an issue feel free to make a suggestions and I'll see if I can set up an issues listing for it!
 - If you run into any issues at all, please let me know! I'd be happy to look that the problem with you.
+
+## Coding Standards
+- Please add code to the designated areas when editing routes
+	- General issues do not need to follow this rule.
+- This project is done using python code within Ren'Py files.
 
 ## Happy Coding!
